@@ -38,4 +38,9 @@ This project automates the detection and classification of bolts and nuts usign 
 
 - Jupyter notebook opens in the browser and displays the file in the home folder.
 - Navigate to the Folder where the unzipped file of the coursework is pasted.
+- You can see the files and folders as in the image below,
+  
+  ![Screenshot 2025-04-12 012400](https://github.com/user-attachments/assets/6c8c3219-1eca-49cb-bd9e-37c4e446df14)
 
+- To run the custom CNN model - double click - Bolt_nut_classification_using_CNN.ipynb
+- To run the MObileNetV2 Pretrained model - double click - Bolt_nut_classification_using_Mobilenet2.ipynb   
