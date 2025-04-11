@@ -11,13 +11,31 @@ This project automates the detection and classification of bolts and nuts usign 
 ## System requirements :
 
 - python 3.8 or above
-- If not installed. please download and install from https://www.python.org/downloads/
+- If Python not installed. Please download and install from https://www.python.org/downloads/
 
 - PIP 
-- If not installed.Please download and install from https://packaging.python.org/en/latest/tutorials/installing-packages/
+- If Pip not installed. Please download and install from https://packaging.python.org/en/latest/tutorials/installing-packages/
 
 - Jupyter Notebook
-- If not installed
+- If Jupyter Notebook not installed, use the below code to install in the windows powershell
   
              pip install notebook
+
+- Libraries like TensorFlow, Keras, OpenCV, Numpy, Matplotlib, Pathlib, Sklearn
+
+              pip install tensorflow keras opencv-python numpy matplotlib scikit-learn pathlib
+
+## Downloading the file and dataset:
+
+- Download the Zip file of the coursework and unzip it, place it in the desired folder.
+- Click the github repository link form the report and download the file, place it in the desired folder or location in the system.
+
+## Running the Program:
+
+- Launch the Jupyter Notebook
+
+      jupyter notebook
+
+- Jupyter notebook opens in the browser and displays the file in the home folder.
+- Navigate to the Folder where the unzipped file of the coursework is pasted.
 
