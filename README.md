@@ -11,6 +11,13 @@ This project automates the detection and classification of bolts and nuts usign 
 ## System requirements :
 
 - python 3.8 or above
-- if not installed. please download and install from https://www.python.org/downloads/
+- If not installed. please download and install from https://www.python.org/downloads/
 
+- PIP 
+- If not installed.Please download and install from https://packaging.python.org/en/latest/tutorials/installing-packages/
+
+- Jupyter Notebook
+- If not installed
+  
+             pip install notebook
 
