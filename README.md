@@ -49,7 +49,7 @@ This project automates the detection and classification of bolts and nuts usign 
 ### Executing the Notebook Cells
 For both Custom CNN and MobileNetv2 models the notebook format is exactly the same, except the model script-
 - To run the machine learning and Evaluation
-    - Follow the order of the notebook
+    - Follow the order of the notebook and Run the script in each step
         - Step 1 : Importing the required libraries
         - Step 2 : Routing the path of the dataset
         - Step 3 : Loading the dataset and preprocessing
@@ -79,3 +79,16 @@ To execute the testing program, the saved keras file is mandatory. Please ensure
 - Step 15 : Live Detection 
   - Live detection Screenshot - ![live_dection](https://github.com/user-attachments/assets/bf3594f3-3a50-43b1-b761-8b6422145f41)
 
+### Preprocessing Sample
+To visualize the preprocessing process step by step, please Double click - Preprocessing_sample.ipynb file. Run the script in each step
+
+- Step 1 : Function for ploting the image
+- Step 2 : Preprocessing preview for nut
+  - All the preprocessing function for nut is visually presented for easy understanding
+- Step 3 : Preprocessing preview for bolt
+  - All the preprocessing function for bolt is visually presented for easy understanding
+ 
+# Author
+Vignesh Lakshmanasamy
+M01026685
+M.sc. Robotics, Middlesex University
