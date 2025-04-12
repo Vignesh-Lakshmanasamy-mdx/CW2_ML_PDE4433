@@ -50,18 +50,28 @@ This project automates the detection and classification of bolts and nuts usign 
 For both Custom CNN and MobileNetv2 models the notebook format is exactly the same, except the model script-
 - To run the machine learning and Evaluation
     - Follow the order of the notebook
-        - Importing the required libraries
-        - Routing the path of the dataset
-        - Loading the data and preprocessing
-        - Training the CNN and Mobilenetv2 model in respective notebook
-        - Evaluation of the trained model
-        - Performance graph for the model
-        - Save the model
+        - Step 1 : Importing the required libraries
+        - Step 2 : Routing the path of the dataset
+        - Step 3 : Loading the dataset and preprocessing
+        - Step 4 : Loading the data and reshaping to prepare for training process
+        - Step 5 : Spliting the data for training and testing
+        - Step 6 : CNN Model
+        - Step 7 : Compiling the model
+        - Step 8 : Training the model
+        - Step 9 : Evaluating the accuracy of the model
+        - Step 10 : Model Summary
+        - Step 11 : Model Performance graph
+        - Step 12 : Save the Model
         - For Custom CNN, it is saved as
           ![save_model_cnn](https://github.com/user-attachments/assets/9b18a937-ab5e-4be1-8d3d-b3df836d3374)
         - For MobileNetV2, it is saved as
           ![SAVE_model](https://github.com/user-attachments/assets/d45c1ac6-ee9f-4362-9864-7bb90ba938b1)
 
 ### Testing the model with images:
+To execute the testing program, the saved keras file is mandatory. Please ensure the keras is saved in the same folder of the coursework. Follow the below steps to see the result images.
 
+- Step 13 : Function for ploting the image
+- Run the function "show image" which contain the image ploting program
+- 
+- Then run the 
 
