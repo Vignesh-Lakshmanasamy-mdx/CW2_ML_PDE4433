@@ -42,5 +42,20 @@ This project automates the detection and classification of bolts and nuts usign 
   
   ![Screenshot 2025-04-12 012400](https://github.com/user-attachments/assets/6c8c3219-1eca-49cb-bd9e-37c4e446df14)
 
-- To run the custom CNN model - double click - Bolt_nut_classification_using_CNN.ipynb
-- To run the MObileNetV2 Pretrained model - double click - Bolt_nut_classification_using_Mobilenet2.ipynb   
+- To run the Custom CNN model - double click - Bolt_nut_classification_using_CNN.ipynb
+- To run the MobileNetV2 Pretrained model - double click - Bolt_nut_classification_using_Mobilenet2.ipynb
+- To visualize the pre processing used in the project - open - Preprocessing_sample.ipynb
+
+### Executing the Notebook Cells
+For both Custom CNN and MobileNetv2 models the notebook format is exactly the same, except the model script-
+- To run the machine learning and Evaluation
+    - Follow the order of the notebook
+        - Importing the required libraries
+        - Routing the path of the dataset
+        - Loading the data and preprocessing
+        - Training the CNN and Mobilenetv2 model in respective notebook
+        - Evaluation of the trained model
+        - Performance graph for the model
+        - Save the model
+          ![SAVE_model](https://github.com/user-attachments/assets/d45c1ac6-ee9f-4362-9864-7bb90ba938b1)
+
