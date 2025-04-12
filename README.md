@@ -55,7 +55,7 @@ For both Custom CNN and MobileNetv2 models the notebook format is exactly the sa
         - Step 3 : Loading the dataset and preprocessing
         - Step 4 : Loading the data and reshaping to prepare for training process
         - Step 5 : Spliting the data for training and testing
-        - Step 6 : CNN Model
+        - Step 6 : CNN Model or MobileNetV2 Pre-trained Model in respective notebook 
         - Step 7 : Compiling the model
         - Step 8 : Training the model
         - Step 9 : Evaluating the accuracy of the model
