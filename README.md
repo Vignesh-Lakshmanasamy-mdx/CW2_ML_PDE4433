@@ -57,5 +57,11 @@ For both Custom CNN and MobileNetv2 models the notebook format is exactly the sa
         - Evaluation of the trained model
         - Performance graph for the model
         - Save the model
+        - For Custom CNN, it is saved as
+          ![save_model_cnn](https://github.com/user-attachments/assets/9b18a937-ab5e-4be1-8d3d-b3df836d3374)
+        - For MobileNetV2, it is saved as
           ![SAVE_model](https://github.com/user-attachments/assets/d45c1ac6-ee9f-4362-9864-7bb90ba938b1)
+
+### Testing the model with images:
+
 
