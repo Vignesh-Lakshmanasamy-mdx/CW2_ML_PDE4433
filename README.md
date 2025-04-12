@@ -62,16 +62,20 @@ For both Custom CNN and MobileNetv2 models the notebook format is exactly the sa
         - Step 10 : Model Summary
         - Step 11 : Model Performance graph
         - Step 12 : Save the Model
-        - For Custom CNN, it is saved as
+          - For Custom CNN, it is saved as
           ![save_model_cnn](https://github.com/user-attachments/assets/9b18a937-ab5e-4be1-8d3d-b3df836d3374)
-        - For MobileNetV2, it is saved as
+          - For MobileNetV2, it is saved as
           ![SAVE_model](https://github.com/user-attachments/assets/d45c1ac6-ee9f-4362-9864-7bb90ba938b1)
 
 ### Testing the model with images:
 To execute the testing program, the saved keras file is mandatory. Please ensure the keras is saved in the same folder of the coursework. Follow the below steps to see the result images.
 
 - Step 13 : Function for ploting the image
-- Run the function "show image" which contain the image ploting program
-- 
-- Then run the 
+  - Run the function "show image" which contain the image ploting program
+- Step 14 : Testing the Model with Images which are not involved in training
+  - Test Result - ![Git_test_image](https://github.com/user-attachments/assets/a4249312-206d-48bc-bd85-0a82c8d7e098)
+
+### Testing the model with live streaming webcam:
+- Step 15 : Live Detection 
+  - Live detection Screenshot - ![live_dection](https://github.com/user-attachments/assets/bf3594f3-3a50-43b1-b761-8b6422145f41)
 
